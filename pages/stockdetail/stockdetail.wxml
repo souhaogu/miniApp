@@ -1,0 +1,108 @@
+<view class="wrapperC wrapper_217">
+	<view class="boxC box_513"></view>
+	<view class="boxC box_512"></view>
+	<view class="boxC box_511"></view>
+	<view class="boxC box_510"></view>
+	<view class="boxC box_509"></view>
+	<view class="boxC box_508"></view>
+	<view class="textC text_507"><text class="text-content">AT&T</text></view>
+	<view class="imageC image_24"><image src="../../images/img1415673f98e70.png"></image></view>
+	<view class="textC text_506"><text class="text-content">9:41 AM</text></view>
+	<view class="textC text_505"><text class="text-content">100%</text></view>
+	<view class="imageC image_23"><image src="../../images/img1515673f98e70.png"></image></view>
+</view>
+<view class="wrapperC wrapper_218">
+	<view class="textC text_514 tB"><text class="text-content">阿里巴巴（BABA.N)</text></view>
+	<icon class="iconC icon_95 material-icons">chevron_left</icon>
+</view>
+<view class="wrapperC wrapper_219">
+	<view class="wrapperC wrapper_228">
+		<view class="boxC box_567"></view>
+		<view class="textC text_566 tB"><text class="text-content">相关新闻</text></view>
+		<view class="wrapperC wrapper_229">
+			<view class="wrapperC wrapper_232">
+				<view class="textC hL text_565"><text class="text-content">Singapore slings? Taking on Alibaba, Amazon launches Prime Now in the city state</text></view>
+				<view class="textC hL text_564 tB"><text class="text-content">路透新闻</text></view>
+				<view class="boxC box_563"></view>
+				<view class="textC hR text_562 tB"><text class="text-content">07-27</text></view>
+			</view>
+			<view class="wrapperC wrapper_231">
+				<view class="textC hL text_561"><text class="text-content">美团点评将大众投资线下零售服务 不急于IPO</text></view>
+				<view class="textC hL text_560 tB"><text class="text-content">腾讯科技</text></view>
+				<view class="boxC box_559"></view>
+				<view class="textC hR text_558 tB"><text class="text-content">07-26</text></view>
+			</view>
+			<view class="wrapperC wrapper_230">
+				<view class="textC hL text_557"><text class="text-content">阿里巴巴拟2亿美元入股印度电商Bigbasket</text></view>
+				<view class="textC hL text_556 tB"><text class="text-content">腾讯科技</text></view>
+				<view class="boxC box_555"></view>
+				<view class="textC hR text_554 tB"><text class="text-content">07-26</text></view>
+			</view>
+		</view>
+	</view>
+	<view class="wrapperC wrapper_225">
+		<view class="boxC box_553"></view>
+		<view class="wrapperC wrapper_227">
+			<view class="imageC image_27"><image src="../../images/img76515d8334fc10.png"></image></view>
+			<view class="imageC image_26"><image src="../../images/img76815d83375988.png"></image></view>
+		</view>
+		<view class="boxC box_552"></view>
+		<view class="textC text_551 tB"><text class="text-content">+2.63% </text></view>
+		<view class="textC text_550"><text class="text-content">156.44</text></view>
+		<view class="textC text_549"><text class="text-content">154.44</text></view>
+		<view class="textC text_548"><text class="text-content">152.44</text></view>
+		<view class="textC text_547"><text class="text-content">150.44</text></view>
+		<view class="textC text_546"><text class="text-content">148.44</text></view>
+		<view class="textC text_545 tB"><text class="text-content">-2.63% </text></view>
+		<view class="textC text_544 tB"><text class="text-content">9:30</text></view>
+		<view class="textC text_543 tB"><text class="text-content">12:30</text></view>
+		<view class="textC text_542 tB"><text class="text-content">16:00</text></view>
+		<view class="wrapperC wrapper_226">
+			<view class="boxC box_541"></view>
+			<view class="imageC image_25"><image src="../../images/img79315d8353de50.png"></image></view>
+		</view>
+		<view class="textC text_540 tB"><text class="text-content">63.9</text></view>
+		<view class="textC text_539 tB"><text class="text-content">万股</text></view>
+	</view>
+	<view class="wrapperC wrapper_224">
+		<view class="boxC box_538"></view>
+		<view class="textC text_537 tB"><text class="text-content">分时</text></view>
+		<view class="textC text_536 tB"><text class="text-content">五日</text></view>
+		<view class="textC text_535 tB"><text class="text-content">日K</text></view>
+		<view class="textC text_534 tB"><text class="text-content">周K</text></view>
+		<view class="textC text_533 tB"><text class="text-content">月K</text></view>
+		<view class="boxC box_532"></view>
+	</view>
+	<view class="wrapperC wrapper_220">
+		<view class="boxC box_531"></view>
+		<view class="textC text_530 tB"><text class="text-content">155.79</text></view>
+		<view class="textC text_529"><text class="text-content">未开盘 07-26 16：00：51（EDT）</text></view>
+		<view class="wrapperC wrapper_223">
+			<view class="textC text_528 tB"><text class="text-content">+3.35</text></view>
+			<view class="textC text_527 tB"><text class="text-content">+2.20%</text></view>
+		</view>
+		<view class="wrapperC wrapper_222">
+			<view class="textC text_526 tB"><text class="text-content">最   高</text></view>
+			<view class="textC text_525 tB"><text class="text-content">最   低</text></view>
+			<view class="textC text_524 tB"><text class="text-content">市盈率</text></view>
+			<view class="textC text_523"><text class="text-content">156.00</text></view>
+			<view class="textC text_522"><text class="text-content">152.36</text></view>
+			<view class="textC text_521"><text class="text-content">64.64</text></view>
+		</view>
+		<view class="wrapperC wrapper_221">
+			<view class="textC text_520 tB"><text class="text-content">最   高</text></view>
+			<view class="textC text_519 tB"><text class="text-content">最   低</text></view>
+			<view class="textC text_518 tB"><text class="text-content">市盈率</text></view>
+			<view class="textC text_517"><text class="text-content">156.00</text></view>
+			<view class="textC text_516"><text class="text-content">152.36</text></view>
+			<view class="textC text_515"><text class="text-content">64.64</text></view>
+		</view>
+		<icon class="iconC icon_96 material-icons">expand_more</icon>
+	</view>
+</view>
+<view class="wrapperC wrapper_233">
+	<view class="wrapperC wrapper_236">
+		<view class="boxC box_570"></view>
+		<view class="textC text_568"><text class="text-content">＋ 添加自选</text></view>
+	</view>
+</view>

@@ -1,0 +1,55 @@
+<view class="wrapperC wrapper_122">
+	<view class="boxC box_189"></view>
+	<view class="boxC box_188"></view>
+	<view class="boxC box_187"></view>
+	<view class="boxC box_186"></view>
+	<view class="boxC box_185"></view>
+	<view class="boxC box_184"></view>
+	<view class="textC text_183"><text class="text-content">AT&T</text></view>
+	<view class="imageC image_6"><image src="../../images/img1415673f98e70.png"></image></view>
+	<view class="textC text_182"><text class="text-content">9:41 AM</text></view>
+	<view class="textC text_181"><text class="text-content">100%</text></view>
+	<view class="imageC image_5"><image src="../../images/img1515673f98e70.png"></image></view>
+</view>
+<view class="wrapperC wrapper_123">
+	<view class="textC text_190 tB"><text class="text-content">设置</text></view>
+	<icon class="iconC icon_51 material-icons">chevron_left</icon>
+</view>
+<view class="wrapperC wrapper_124">
+	<view class="boxC box_194"></view>
+	<view class="wrapperC wrapper_127" bindtap="naviToSelfSelect">
+		<icon class="iconC icon_54 material-icons">person</icon>
+		<view class="textC text_193"><text class="text-content">自选</text></view>
+	</view>
+	<view class="wrapperC wrapper_126" bindtap="naviToQuote">
+		<icon class="iconC icon_53 material-icons">timeline</icon>
+		<view class="textC text_192"><text class="text-content">行情</text></view>
+	</view>
+	<view class="wrapperC wrapper_125">
+		<view class="textC text_191"><text class="text-content">设置</text></view>
+		<icon class="iconC icon_52 material-icons">settings</icon>
+	</view>
+</view>
+<icon class="iconC icon_57 material-icons">chevron_right</icon>
+<icon class="iconC icon_58 material-icons">chevron_right</icon>
+<icon class="iconC icon_59 material-icons">chevron_right</icon>
+<view class="textC hR text_206"><text class="text-content">20 KB</text></view>
+<view class="wrapperC wrapper_280">
+	<view class="boxC box_200"></view>
+	<view class="boxC box_195"></view>
+	<view class="boxC box_196"></view>
+	<view class="boxC box_197"></view>
+	<view class="boxC box_198"></view>
+	<view class="textC hL text_202"><text class="text-content">清除缓存</text></view>
+	<view class="textC hL text_203"><text class="text-content">用户反馈</text></view>
+	<view class="textC hL text_204"><text class="text-content">免责声明</text></view>
+	<view class="wrapperC wrapper_275">
+		<view class="textC hL text_201"><text class="text-content">显示设置</text></view>
+		<icon class="iconC icon_56 material-icons">chevron_right</icon>
+		<view class="textC hR text_205"><text class="text-content">红涨绿跌</text></view>
+	</view>
+	<view class="wrapperC wrapper_276">
+		<view class="textC hL text_199"><text class="text-content">K线设置</text></view>
+		<icon class="iconC icon_55 material-icons">chevron_right</icon>
+	</view>
+</view>

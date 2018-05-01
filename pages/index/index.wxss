@@ -1,0 +1,43 @@
+@import "../common/common.wxss";
+
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.introduce {
+  margin-top: 100px;
+}
+
+.usermotto {
+  margin-top: 100px;
+  color: rgba(166, 166, 166, 1);
+	box-shadow: 2rpx solid rgba(229, 229, 229, 1);
+  border-radius: 33rpx;
+	line-height: 150%;
+}
+
+.text_22{
+	width: 145rpx;
+	height: 63rpx;
+	left: 664rpx;
+	top: 1403rpx;
+	color: rgba(166, 166, 166, 1);
+	box-shadow: 2rpx solid rgba(229, 229, 229, 1);
+	border-radius: 33rpx;
+	font-size: 26rpx;
+	line-height: 150%;
+}

@@ -1,0 +1,207 @@
+<view class="wrapperC wrapper_55">
+	<view class="boxC box_71"></view>
+	<view class="boxC box_70"></view>
+	<view class="boxC box_69"></view>
+	<view class="boxC box_68"></view>
+	<view class="boxC box_67"></view>
+	<view class="boxC box_66"></view>
+	<view class="textC text_65"><text class="text-content">AT&T</text></view>
+	<view class="imageC image_4"><image src="../../images/img1415673f98e70.png"></image></view>
+	<view class="textC text_64"><text class="text-content">9:41 AM</text></view>
+	<view class="textC text_63"><text class="text-content">100%</text></view>
+	<view class="imageC image_3"><image src="../../images/img1515673f98e70.png"></image></view>
+</view>
+
+<view class="wrapperC wrapper_56">
+	<view class="textC text_72 tB"><text class="text-content">行情</text></view>
+	<icon class="iconC icon_28 material-icons">chevron_left</icon>
+</view>
+<view class="wrapperC wrapper_57">
+	<view class="boxC box_76"></view>
+	<view class="wrapperC wrapper_60">
+		<icon class="iconC icon_31 material-icons">person</icon>
+		<view class="textC text_75"><text class="text-content">自选</text></view>
+	</view>
+	<view class="wrapperC wrapper_59">
+		<icon class="iconC icon_30 material-icons">timeline</icon>
+		<view class="textC text_74"><text class="text-content">行情</text></view>
+	</view>
+	<view class="wrapperC wrapper_58">
+		<view class="textC text_73"><text class="text-content">设置</text></view>
+		<icon class="iconC icon_29 material-icons">settings</icon>
+	</view>
+</view>
+<view class="boxC box_116"></view>
+<view class="wrapperC wrapper_80">
+	<view class="textC text_117"><text class="text-content">沪深</text></view>
+	<view class="boxC box_118"></view>
+</view>
+<view class="wrapperC wrapper_81">
+	<view class="textC text_120"><text class="text-content">港股</text></view>
+</view>
+<view class="wrapperC wrapper_82">
+	<view class="textC text_121"><text class="text-content">美股</text></view>
+</view>
+<view class="wrapperC wrapper_94">
+	<view class="wrapperC wrapper_61">
+		<view class="textC text_82 tB"><text class="text-content">上证指数</text></view>
+		<view class="wrapperC wrapper_63">
+			<view class="textC text_81 tB"><text class="text-content">3247.67</text></view>
+			<icon class="iconC icon_33 material-icons">arrow_drop_up</icon>
+		</view>
+		<view class="wrapperC wrapper_62">
+			<view class="textC text_80 tB"><text class="text-content">+3.99</text></view>
+			<view class="textC text_79 tB"><text class="text-content">+0.12%</text></view>
+		</view>
+	</view>
+	<view class="wrapperC wrapper_64">
+		<view class="textC text_86 tB"><text class="text-content">深证成指</text></view>
+		<view class="wrapperC wrapper_66">
+			<view class="textC text_85 tB"><text class="text-content">10297.34</text></view>
+			<icon class="iconC icon_34 material-icons">arrow_drop_up</icon>
+		</view>
+		<view class="wrapperC wrapper_65">
+			<view class="textC text_84 tB"><text class="text-content">-55.87</text></view>
+			<view class="textC text_83 tB"><text class="text-content">-0.54%</text></view>
+		</view>
+	</view>
+	<view class="wrapperC wrapper_67">
+		<view class="textC text_90 tB"><text class="text-content">道琼斯</text></view>
+		<view class="wrapperC wrapper_69">
+			<view class="textC text_89 tB"><text class="text-content">1681.31</text></view>
+			<icon class="iconC icon_35 material-icons">arrow_drop_up</icon>
+		</view>
+		<view class="wrapperC wrapper_68">
+			<view class="textC text_88 tB"><text class="text-content">+100.26</text></view>
+			<view class="textC text_87 tB"><text class="text-content">+0.47%</text></view>
+		</view>
+	</view>
+	<view class="boxC box_91"></view>
+	<view class="boxC box_92"></view>
+	<view class="wrapperC wrapper_83">
+		<view class="textC text_129 tB"><text class="text-content">上证指数</text></view>
+		<view class="wrapperC wrapper_85">
+			<view class="textC text_128 tB"><text class="text-content">3247.67</text></view>
+			<icon class="iconC icon_41 material-icons">arrow_drop_up</icon>
+		</view>
+		<view class="wrapperC wrapper_84">
+			<view class="textC text_127 tB"><text class="text-content">+3.99</text></view>
+			<view class="textC text_126 tB"><text class="text-content">+0.12%</text></view>
+		</view>
+	</view>
+	<view class="wrapperC wrapper_86">
+		<view class="textC text_133 tB"><text class="text-content">深证成指</text></view>
+		<view class="wrapperC wrapper_88">
+			<view class="textC text_132 tB"><text class="text-content">10297.34</text></view>
+			<icon class="iconC icon_42 material-icons">arrow_drop_up</icon>
+		</view>
+		<view class="wrapperC wrapper_87">
+			<view class="textC text_131 tB"><text class="text-content">-55.87</text></view>
+			<view class="textC text_130 tB"><text class="text-content">-0.54%</text></view>
+		</view>
+	</view>
+	<view class="wrapperC wrapper_89">
+		<view class="textC text_137 tB"><text class="text-content">道琼斯</text></view>
+		<view class="wrapperC wrapper_91">
+			<view class="textC text_136 tB"><text class="text-content">1681.31</text></view>
+			<icon class="iconC icon_43 material-icons">arrow_drop_up</icon>
+		</view>
+		<view class="wrapperC wrapper_90">
+			<view class="textC text_135 tB"><text class="text-content">+100.26</text></view>
+			<view class="textC text_134 tB"><text class="text-content">+0.47%</text></view>
+		</view>
+	</view>
+	<view class="boxC box_138"></view>
+	<view class="boxC box_139"></view>
+	<view class="boxC box_140"></view>
+</view>
+<view class="wrapperC wrapper_96">
+	<view class="boxC box_122"></view>
+	<view class="boxC box_123"></view>
+</view>
+<view class="wrapperC wrapper_119">
+	<view class="wrapperC wrapper_112">
+		<view class="boxC box_171"></view>
+		<icon class="iconC icon_45 material-icons">expand_more</icon>
+		<view class="textC hL text_172 tB"><text class="text-content">涨幅榜</text></view>
+	</view>
+	<view class="wrapperC wrapper_113">
+		<view class="boxC box_174"></view>
+		<icon class="iconC icon_46 material-icons">expand_more</icon>
+		<view class="textC hL text_173 tB"><text class="text-content">跌幅榜</text></view>
+	</view>
+	<view class="wrapperC wrapper_114">
+		<view class="boxC box_176"></view>
+		<icon class="iconC icon_47 material-icons">expand_more</icon>
+		<view class="textC hL text_175 tB"><text class="text-content">换手率榜</text></view>
+	</view>
+	<view class="wrapperC wrapper_115">
+		<view class="boxC box_178"></view>
+		<icon class="iconC icon_48 material-icons">expand_more</icon>
+		<view class="textC hL text_177 tB"><text class="text-content">振幅榜</text></view>
+	</view>
+</view>
+<view class="wrapperC wrapper_279">
+	<view class="wrapperC wrapper_118">
+		<view class="wrapperC wrapper_101">
+			<view class="textC text_144 tB"><text class="text-content">水上运输</text></view>
+			<view class="textC text_143 tB"><text class="text-content">+3.01%</text></view>
+			<view class="textC text_145 tB"><text class="text-content">中远海控</text></view>
+			<view class="wrapperC wrapper_100">
+				<view class="textC text_142 tB"><text class="text-content">5.89</text></view>
+				<view class="textC text_141 tB"><text class="text-content">+10.09%</text></view>
+			</view>
+		</view>
+		<view class="wrapperC wrapper_102">
+			<view class="textC text_150 tB"><text class="text-content">水上运输</text></view>
+			<view class="textC text_149 tB"><text class="text-content">+3.01%</text></view>
+			<view class="textC text_148 tB"><text class="text-content">中远海控</text></view>
+			<view class="wrapperC wrapper_103">
+				<view class="textC text_147 tB"><text class="text-content">5.89</text></view>
+				<view class="textC text_146 tB"><text class="text-content">+10.09%</text></view>
+			</view>
+		</view>
+		<view class="wrapperC wrapper_104">
+			<view class="textC text_155 tB"><text class="text-content">水上运输</text></view>
+			<view class="textC text_154 tB"><text class="text-content">+3.01%</text></view>
+			<view class="textC text_153 tB"><text class="text-content">中远海控</text></view>
+			<view class="wrapperC wrapper_105">
+				<view class="textC text_152 tB"><text class="text-content">5.89</text></view>
+				<view class="textC text_151 tB"><text class="text-content">+10.09%</text></view>
+			</view>
+		</view>
+		<view class="wrapperC wrapper_106">
+			<view class="textC text_160 tB"><text class="text-content">水上运输</text></view>
+			<view class="textC text_159 tB"><text class="text-content">+3.01%</text></view>
+			<view class="textC text_158 tB"><text class="text-content">中远海控</text></view>
+			<view class="wrapperC wrapper_107">
+				<view class="textC text_157 tB"><text class="text-content">5.89</text></view>
+				<view class="textC text_156 tB"><text class="text-content">+10.09%</text></view>
+			</view>
+		</view>
+		<view class="wrapperC wrapper_108">
+			<view class="textC text_165 tB"><text class="text-content">水上运输</text></view>
+			<view class="textC text_164 tB"><text class="text-content">+3.01%</text></view>
+			<view class="textC text_163 tB"><text class="text-content">中远海控</text></view>
+			<view class="wrapperC wrapper_109">
+				<view class="textC text_162 tB"><text class="text-content">5.89</text></view>
+				<view class="textC text_161 tB"><text class="text-content">+10.09%</text></view>
+			</view>
+		</view>
+		<view class="wrapperC wrapper_110">
+			<view class="textC text_170 tB"><text class="text-content">水上运输</text></view>
+			<view class="textC text_169 tB"><text class="text-content">+3.01%</text></view>
+			<view class="textC text_168 tB"><text class="text-content">中远海控</text></view>
+			<view class="wrapperC wrapper_111">
+				<view class="textC text_167 tB"><text class="text-content">5.89</text></view>
+				<view class="textC text_166 tB"><text class="text-content">+10.09%</text></view>
+			</view>
+		</view>
+	</view>
+	<view class="wrapperC wrapper_121">
+		<view class="boxC box_124"></view>
+		<icon class="iconC icon_39 material-icons">expand_more</icon>
+		<view class="textC text_125 tB"><text class="text-content">热门板块</text></view>
+		<icon class="iconC icon_40 material-icons">more_horiz</icon>
+	</view>
+</view>

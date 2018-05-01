@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/selfselect/selfselect",
+    "pages/quote/quote",
+    "pages/settings/settings",
+    "pages/stockdetail/stockdetail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "搜好股",
+    "navigationBarTextStyle":"black"
+  }
+}
